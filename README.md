@@ -48,7 +48,7 @@ mallory/
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/darkresearch/mallory.git
+git clone https://github.com/RLchrist/mallory.git
 cd mallory
 bun install
 ```
@@ -293,8 +293,8 @@ Apache License 2.0 - see [LICENSE](./LICENSE) for details.
 
 ## 🆘 Support
 
-- 📧 Email: hello@darkresearch.ai
-- 🐛 Issues: [GitHub Issues](https://github.com/darkresearch/mallory/issues)
+- 📧 Email: christiane9464@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/RLchrist/mallory/issues)
 - 📚 Docs: [Full Documentation](./docs/)
 
 ## 🙏 Acknowledgments
@@ -313,5 +313,4 @@ Built with:
 
 ---
 
-**Made with ❤️ by [Dark](https://darkresearch.ai)**
 
